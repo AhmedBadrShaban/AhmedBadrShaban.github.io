@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Contact V1</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+ 	<link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
+ 	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+ 	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+ 	<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
+ 	<link rel="stylesheet" type="text/css" href="vendor/css-hamburgers/hamburgers.min.css">
+ 	<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
+ 	<link rel="stylesheet" type="text/css" href="css/util.css">
+     <link rel="stylesheet" type="text/css" href="css/feedback.css">
+     <link rel="stylesheet" type="text/css" href="css/style.css">
+    </head>
+<body>
+	<div class="col-md-12 d-flex justify-content-between border-right">
+        <div class="d-flex flex-column align-items-center text-center  p-3 py-5 contact_bt"> 
+                <a href="home_page.html" >رجوع</a>
+        </div>
+		<div class="logo p-3 py-5 "><a href="home_page.html"><img class="img-logo" src="images/lo2.png" ></a></div>
+
+    </div>
+	<div class="contact1">
+		<div class="container-contact1">
+			<div class="contact1-pic js-tilt" data-tilt>
+				<img src="images/img-01.png" alt="IMG">
+			</div>
+
+			<form class="contact1-form validate-form">
+				<span class="welcome_text">
+					تقييم خدمة
+				</span>
+
+				<!-- <div class="wrap-input1 validate-input" data-validate = "الاسم مطلوب">
+					<input class="input1" type="text" name="name" placeholder="اسمك بالكامل">
+					<span class="shadow-input1"></span>
+				</div>
+
+				<div class="wrap-input1 validate-input" data-validate = "  ex@abc.xyz: البريدالالكتروني مطلوب مثال">
+					<input class="input1" type="text" name="email" placeholder="البريد الاكتروني" >
+					<span class="shadow-input1"></span>
+				</div> -->
+
+				<div class="wrap-input1 validate-input" data-validate = "المحافظة مطلوبة">
+                    <select class="input1" placeholder="المحافظة" name="city">
+                        <option selected="selected"> المحافظة</option>
+                        <option>الجيزة</option>
+                        <option>القاهرة</option>
+                        <option>الإسكندرية</option> 
+                    </select>
+ 					<span class="shadow-input1"></span>
+				</div>
+            	<div class="wrap-input1 validate-input" data-validate = "هذا الجزء مطلوب">
+                    <select class="input1" placeholder="الوحده المحلية" name="department">
+                        <option selected="selected">الوحدة المحلية</option>
+                        <option>الوحدة المحلية بالدقي</option>
+                        <option>الوحدة المحلية بابوالنمرس</option>
+                        <option> الوحدة المحلية بالم</option> 
+                    </select>
+ 					<span class="shadow-input1"></span>
+				</div>    
+
+				<div class="wrap-input1 validate-input" data-validate = " هذا الجزء مطلوب">
+					<textarea class="input1" name="message" placeholder="رسالتك"></textarea>
+					<span class="shadow-input1"></span>
+				</div>
+
+				<div class="container-contact1-form-btn">
+					<button class="contact1-form-btn">
+						<span>
+							ارسال 
+ 							<i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+						</span>
+					</button>
+				</div>
+			</form>
+		</div>
+	</div>
+
+
+
+
+ 	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+ 	<script src="vendor/bootstrap/js/popper.js"></script>
+	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+ 	<script src="vendor/select2/select2.min.js"></script>
+ 	<script src="vendor/tilt/tilt.jquery.min.js"></script>
+	<script >
+		$('.js-tilt').tilt({
+			scale: 1.1
+		})
+	</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-23581568-13');
+</script>
+
+<!--===============================================================================================-->
+	<script src="js/main.js"></script>
+
+</body>
+</html>
