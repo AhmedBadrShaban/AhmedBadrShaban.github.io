@@ -5,7 +5,7 @@ import { dirname, join, resolve, sep } from "node:path";
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const output = join(root, "out");
-const entries = ["index.html", "404.html", "index.txt", "_next", "fonts", "Ahmed_Badr_Shaaban.pdf", "favicon.svg"];
+const entries = ["index.html", "index.txt", "_next", "fonts", "Ahmed_Badr_Shaaban.pdf", "favicon.svg"];
 
 if (!existsSync(join(output, "index.html"))) {
   throw new Error("Build output is missing. Run npm run build first.");

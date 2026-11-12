@@ -15,7 +15,7 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
 endobj
 6 0 obj
-<< /Length 3553 >>
+<< /Length 3513 >>
 stream
 0.13 0.14 0.13 rg BT /F2 22 Tf 1 0 0 1 48 744 Tm (Ahmed Badr Shaaban) Tj ET
 0.13 0.14 0.13 rg BT /F1 11 Tf 1 0 0 1 48 725 Tm (Frontend Engineer | Angular Developer) Tj ET
@@ -25,14 +25,14 @@ stream
 0.88 0.88 0.86 RG 48 654 m 564 654 l S
 0.13 0.14 0.13 rg BT /F1 10 Tf 1 0 0 1 48 638 Tm (Frontend engineer with nearly two years of production Angular experience across) Tj ET
 0.13 0.14 0.13 rg BT /F1 10 Tf 1 0 0 1 48 624 Tm (e-commerce, trading, billing dashboards, and financial compliance systems.) Tj ET
-0.13 0.14 0.13 rg BT /F1 10 Tf 1 0 0 1 48 610 Tm (Focused on accessible, responsive, bilingual interfaces and dependable delivery.) Tj ET
+0.13 0.14 0.13 rg BT /F1 10 Tf 1 0 0 1 48 610 Tm (Focused on accessible, responsive interfaces and dependable delivery.) Tj ET
 0.85 0.35 0.25 rg BT /F2 10 Tf 1 0 0 1 48 581 Tm (EXPERIENCE) Tj ET
 0.88 0.88 0.86 RG 48 572 m 564 572 l S
 0.13 0.14 0.13 rg BT /F2 11 Tf 1 0 0 1 48 555 Tm (Front End Developer \(Angular\)) Tj ET
 0.13 0.14 0.13 rg BT /F1 9 Tf 1 0 0 1 422 555 Tm (Jan 2025 - Present) Tj ET
 0.13 0.14 0.13 rg BT /F1 9 Tf 1 0 0 1 48 538 Tm (Built Angular interfaces for e-commerce, trading, enterprise billing, and KYC workflows.) Tj ET
 0.13 0.14 0.13 rg BT /F1 9 Tf 1 0 0 1 48 524 Tm (Integrated REST, WebSocket, and SSE APIs; worked with SSR, analytics, and CI/CD.) Tj ET
-0.13 0.14 0.13 rg BT /F1 9 Tf 1 0 0 1 48 510 Tm (Created responsive, accessible Arabic/English RTL components.) Tj ET
+0.13 0.14 0.13 rg BT /F1 9 Tf 1 0 0 1 48 510 Tm (Created responsive, accessible interface components.) Tj ET
 0.13 0.14 0.13 rg BT /F2 11 Tf 1 0 0 1 48 482 Tm (Angular Developer Intern | Link Development) Tj ET
 0.13 0.14 0.13 rg BT /F1 9 Tf 1 0 0 1 434 482 Tm (Jul - Sep 2022) Tj ET
 0.13 0.14 0.13 rg BT /F1 9 Tf 1 0 0 1 48 465 Tm (Built responsive, accessible Angular and TypeScript modules in an Agile team.) Tj ET
@@ -50,7 +50,7 @@ stream
 0.85 0.35 0.25 rg BT /F2 10 Tf 1 0 0 1 48 232 Tm (SKILLS) Tj ET
 0.88 0.88 0.86 RG 48 223 m 564 223 l S
 0.13 0.14 0.13 rg BT /F1 9 Tf 1 0 0 1 48 206 Tm (Angular, TypeScript, JavaScript ES6+, RxJS, NgRx, Angular SSR, HTML5, CSS3, Sass) Tj ET
-0.13 0.14 0.13 rg BT /F1 9 Tf 1 0 0 1 48 191 Tm (Tailwind CSS, Zard UI, responsive design, WCAG accessibility, Arabic/English RTL) Tj ET
+0.13 0.14 0.13 rg BT /F1 9 Tf 1 0 0 1 48 191 Tm (Tailwind CSS, Zard UI, responsive design, WCAG accessibility) Tj ET
 0.13 0.14 0.13 rg BT /F1 9 Tf 1 0 0 1 48 176 Tm (Node.js, Express, REST APIs, WebSockets, SSE, MySQL, Postman, Jasmine) Tj ET
 0.13 0.14 0.13 rg BT /F1 9 Tf 1 0 0 1 48 161 Tm (Git/GitHub, Azure, CI/CD collaboration, Agile/Scrum, SEO, GA4, Google Tag Manager) Tj ET
 endstream
@@ -67,5 +67,5 @@ xref
 trailer
 << /Size 7 /Root 1 0 R >>
 startxref
-4001
+3961
 %%EOF
