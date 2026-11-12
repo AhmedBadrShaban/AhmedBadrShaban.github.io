@@ -5,6 +5,9 @@ export const metadata: Metadata = {
   title: "Ahmed Badr Shaaban — Frontend Engineer",
   description:
     "The portfolio of Ahmed Badr Shaaban, a frontend engineer crafting clear, considered digital experiences.",
+  icons: {
+    icon: [{ url: "/favicon.svg?v=1", type: "image/svg+xml" }],
+  },
 };
 
 export default function RootLayout({
