@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "prepare:pages": "npm run build && node scripts/prepare-pages.mjs"
   },
   "dependencies": {
     "next": "^15.5.6",

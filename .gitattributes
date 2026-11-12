@@ -1,0 +1,6 @@
+*.pdf binary
+*.ttf binary
+_next/** -text
+index.html -text
+index.txt -text
+404.html -text
